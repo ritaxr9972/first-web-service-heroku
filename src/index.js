@@ -35,6 +35,7 @@ const errorPage = `
         <h1>404 File Not Found!</h1>
         <p>Check your URL or your typing!</p>
         <p>:-0</p>
+        <p>Please try again</p>
     </body>
 </html>
 `
